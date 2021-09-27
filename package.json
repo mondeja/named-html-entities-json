@@ -1,0 +1,29 @@
+{
+  "name": "named-html-entities-json",
+  "version": "0.1.0",
+  "description": "HTML named entities mapping to their Javascript replacements in a JSON file.",
+  "main": "index.json",
+  "scripts": {
+    "lint": "node_modules/.bin/prettier -c .",
+    "lint:fix": "node_modules/.bin/prettier -w ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondeja/named-html-entities-json.git"
+  },
+  "keywords": [
+    "html",
+    "encoding",
+    "svg",
+    "decoding"
+  ],
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/mondeja/named-html-entities-json/issues"
+  },
+  "homepage": "https://github.com/mondeja/named-html-entities-json#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
