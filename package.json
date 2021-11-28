@@ -1,6 +1,6 @@
 {
   "name": "named-html-entities-json",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "HTML named entities mapping to their Javascript replacements in a JSON file.",
   "main": "index.json",
   "scripts": {
